@@ -59,6 +59,8 @@ pip install numpy pandas matplotlib seaborn pulp
 To start your dynamic pricing journey, execute:
 ```bash
 python code.py
+```
+
 
 ## Core Components
 
